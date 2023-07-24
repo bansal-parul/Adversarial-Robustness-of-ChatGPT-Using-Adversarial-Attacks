@@ -1,0 +1,2 @@
+"original_text","perturbed_text","original_score","perturbed_score","original_output","perturbed_output","ground_truth_output","num_queries","result_type"
+"when will [[oscar]] pistorius compete?","when will [[academia]] pistorius compete?",0.0,1.0,"2012 Summer Olympics","in the women's 100m backstroke","2012 Summer Olympics",54,"Successful"
